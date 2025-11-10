@@ -9,6 +9,7 @@
     "client": "npm start --prefix client",
     "dev:full": "concurrently \"npm run dev\" \"npm run client\""
   },
+  "keywords": ["mlm", "binary-tree", "mern"],
   "author": "",
   "license": "ISC",
   "dependencies": {
